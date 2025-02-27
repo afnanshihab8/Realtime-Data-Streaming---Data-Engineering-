@@ -3,7 +3,7 @@
 This project implements a robust data pipeline leveraging a diverse technology stack. It begins by fetching synthetic user data from the 'randomuser.me' API, orchestrated via **Apache Airflow** and stored in **PostgreSQL**. **Apache Kafka**, integrated with **Zookeeper**, enables real-time data streaming, while **Control Center** and **Schema Registry** manage stream governance. **Apache Spark** processes the data, which is then stored in **Cassandra** for high-availability storage. The entire pipeline is containerized with **Docker** for seamless deployment.
 
 ## System Architecture
-https://github.com/afnanshihab8/Realtime-Data-Streaming---Data-Engineering-/blob/main/Data%20engineering%20architecture.png
+![System Architecture](https://github.com/afnanshihab8/Realtime-Data-Streaming---Data-Engineering-/blob/main/Data%20engineering%20architecture.png)
 
 ## Technologies
 - **Data Source**:  `randomuser.me` API is used to generate random user data for the pipeline.
