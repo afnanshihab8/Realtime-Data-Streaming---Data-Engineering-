@@ -14,14 +14,6 @@ This project implements a robust data pipeline leveraging a diverse technology s
 - **Cassandra**: Database to store the processed data.
 - **Docker**: Containerize the entire pipeline.
 
-## Things to learn 
-- Establishing a data pipeline using Apache Airflow for workflow orchestration and data management.
-- Implementing real-time data streaming through Apache Kafka to facilitate data transfer and processing in real-time.
-- Enabling distributed synchronization using Apache Zookeeper for robust coordination and reliability in a distributed system.
-- Employing data processing techniques powered by Apache Spark for efficient and scalable data transformation and analysis.
-- Utilizing data storage solutions with PostgreSQL and Cassandra to securely store and manage structured and unstructured data, respectively.
-- Containerizing the entire data engineering infrastructure with Docker to ensure portability and ease of deployment across various environments.
-
 ## Acknowledgements
 Credits to [Yusuf Ganiyu](https://www.linkedin.com/in/yusuf-ganiyu-b90140107/) for this outstanding project. 
 
